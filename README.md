@@ -4,4 +4,9 @@ vanilla javascript를 이용하여 DOM 요소에 접근하는 방법을 다시 �
 
 ## Window Size
 - 강의: screen, ourer, inner, documentElement의 차이에 따른 사이즈를 표기
-- 적용: 사이즈에 따른 반응형 웹사이트 제작을 위해 추가적으로 em, rem 개념에 대해 공부하고, media queqry를 이용하여 색상과 font-size를 바꾸어 보았습니다.
+- 적용: 사이즈에 따른 반응형 웹사이트 제작을 위해 추가적으로 em, rem 개념에 대해 공부하고, media query를 이용하여 색상과 font-size를 바꾸어 보았습니다.
+
+## coordinate
+- 강의: 좌표 & addEventListener를 활용한 스크롤 조절
+- 적용: addEventListener + button은 onclick 메소드도 활용하여 2가지 방법으로 구현
+

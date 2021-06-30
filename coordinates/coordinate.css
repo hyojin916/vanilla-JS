@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  margin-bottom: 10px;
+  width: 100px;
+  height: 100px;
+  background-color: chartreuse; 
+}
+
+.point {
+  background-color: coral;
+}
+
+.scroll_btn {
+  position:fixed;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+}
+
+.btn {
+  margin-bottom: 10px;
+}

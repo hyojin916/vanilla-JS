@@ -10,3 +10,6 @@ vanilla javascript를 이용하여 DOM 요소에 접근하는 방법을 다시 �
 - 강의: 좌표 & addEventListener를 활용한 스크롤 조절
 - 적용: addEventListener + button은 onclick 메소드도 활용하여 2가지 방법으로 구현
 
+## Web APIs 실전
+- 마우스 이동에 따라 좌표와 타겟 표시 
+- 토끼 찾기 

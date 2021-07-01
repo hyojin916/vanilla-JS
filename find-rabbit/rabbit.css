@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  margin: 20px;
+  outline: none;
+  background-color: coral;
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+.find-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  width: 100px;
+}
